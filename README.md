@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @Rttherockstar
+- 👀 I’m interested in Learning, I'm fresher in final year Btech from Computer Science...
+- 🌱 I’m currently learning HTML, CSS, Java...
+- - 📫 How to reach me Insta - @rttherockstar...
+
+<!---
+Rttherockstar/Rttherockstar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
